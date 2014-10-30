@@ -1,0 +1,15 @@
+{
+    "name": "andtyl/pts",
+    "description": "Get operator name of swedish phone number",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andtyl",
+            "email": "andtyl@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": { "PTS\\": "src/" }
+    } 
+}

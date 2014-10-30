@@ -9,7 +9,7 @@ class PTS {
      * @param string $phone_number phone number
      * @return string Operator name or (bool)false on error
      */
-    public function searchOperatorByNumber($phone_number)
+    public function getOperatorByNumber($phone_number)
     {
         //Extract number data
         if (preg_match("~07[0-9]{2}[\- ][0-9]{6}$~", $phone_number)) {
