@@ -1,5 +1,5 @@
 <?php
-namespace PTS;
+namespace andtyl;
 
 class PTS {
     

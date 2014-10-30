@@ -10,6 +10,6 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": { "PTS\\": "src/" }
+        "psr-4": { "andtyl\\": "src/" }
     } 
 }
